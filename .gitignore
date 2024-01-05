@@ -1,0 +1,13 @@
+# Editor Files
+.vs
+.vscode
+.idea
+*.sublime-project
+*.swp
+*.user
+
+# Build Files
+[b]in
+[o]bj
+*.dll
+*.exe
